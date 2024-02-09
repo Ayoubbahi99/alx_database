@@ -1,3 +1,2 @@
--- Script 1
---Print tables of a database
+-- Lists all tables of a database.
 SHOW TABLES;
