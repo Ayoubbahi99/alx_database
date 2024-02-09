@@ -34,3 +34,10 @@ _ 5. Unique ID <br>
             name VARCHAR(256)<br>
         * The database name will be passed as an argument of the mysql command<br>
         * If the table unique_id already exists, your script should not fail<br>
+_  6. States table <br>
+    * Write a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.<br>
+        * states description:<br>
+            id INT unique, auto generated, can’t be null and is a primary key<br>
+            name VARCHAR(256) can’t be null<br>
+        * If the database hbtn_0d_usa already exists, your script should not fail<br>
+        * If the table states already exists, your script should not fail<br>
