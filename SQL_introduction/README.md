@@ -19,5 +19,9 @@ _  4. First table <br>
         * The database name will be passed as an argument of the mysql command<br>
         If the table first_table already exists, your script should not fail<br>
         You are not allowed to use the SELECT or SHOW statements<br>
+_  5. Full description <br>
+    * Write a script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server. <br>
+        * The database name will be passed as an argument of the mysql command<br>
+        * You are not allowed to use the DESCRIBE or EXPLAIN statements<br>
 
 
