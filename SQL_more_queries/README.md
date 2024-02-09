@@ -55,3 +55,10 @@ _  7. Cities table <br>
         * Results must be sorted in ascending order by cities.id<br>
         * You are not allowed to use the JOIN keyword<br>
         * The database name will be passed as an argument of the mysql command<br>
+_  9. Cities by States <br>
+    * Write a script that lists all cities contained in the database hbtn_0d_usa.<br>
+        * Each record should display: cities.id - cities.name - states.name <br>
+        * Results must be sorted in ascending order by cities.id <br>
+        * You can use only one SELECT statement<br>
+        * The database name will be passed as an argument of the mysql command
+
